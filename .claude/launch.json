@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "auditor",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start", "--", "-p", "3030"],
+      "port": 3030,
+      "cwd": "/Users/codejagaban/Developer/seo-geo-auditor"
+    }
+  ]
+}
